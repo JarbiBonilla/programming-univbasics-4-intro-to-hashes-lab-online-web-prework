@@ -1,6 +1,6 @@
 def new_hash 
   new_hash{
-    "key" => ""
+    "key" => 
   }
   new_hash["key"]
 end
