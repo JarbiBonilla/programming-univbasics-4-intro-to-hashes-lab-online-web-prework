@@ -1,8 +1,8 @@
 def new_hash 
-  {
+  new_hash{
     "key" => 
   }
-  new
+  new_hash[]
 end
 
 def my_hash
