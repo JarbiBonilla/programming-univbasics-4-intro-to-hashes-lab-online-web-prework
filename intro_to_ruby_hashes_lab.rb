@@ -2,7 +2,7 @@ def new_hash
   new_hash{
     "key" => ""
   }
-  new_hash[]
+  new_hash["key"]
 end
 
 def my_hash
